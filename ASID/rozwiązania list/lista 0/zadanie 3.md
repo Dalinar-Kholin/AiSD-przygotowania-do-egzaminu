@@ -1,0 +1,1 @@
+dowód poprawności algorytmu mnożenia chłopskiego
