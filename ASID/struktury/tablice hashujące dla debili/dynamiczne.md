@@ -38,9 +38,6 @@ kiedy dwa elementy mają taki sam hash, oba trafiają do listy elementów pod ty
  - n/m nazywane jest też ***współczynnikiem wypełnienia tablicy hashującej***
  - warto zauważyć że gdy n = O(m), to średni koszt operacji Search(oraz wszystkich innych) jest Θ(1).
 
-
-
-
 #### ***adresowanie otwarte***
 
 w adresowaniu otwartym ***trzymamy tylko tablicę m elementów*** i w razie kolizji ***obliczamy ponownie wartość hasha*** na podstawie zasad
