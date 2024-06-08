@@ -1,0 +1,1 @@
+uselles gówno oparte na heurystykach którego nigdy nie było na egzaminie
