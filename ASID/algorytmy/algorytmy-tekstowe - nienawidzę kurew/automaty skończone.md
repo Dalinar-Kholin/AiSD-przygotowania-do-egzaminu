@@ -10,7 +10,7 @@ właściwości
 > wyznacza najdłuższy prefix wzorca P względem sufixu tekstu x
 
  ***po chuj my to robimy?***
->  funkcje sigma można preprocesować dla danego wzorca i spłaszczyć złożoność do liniowej
+>  funkcje sigma można preprocesować dla danego wzorca i spłaszczyć złożoność do liniowej 
 
 
 ![[Pasted image 20240607154534.png]]
