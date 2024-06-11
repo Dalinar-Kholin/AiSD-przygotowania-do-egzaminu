@@ -11,7 +11,7 @@ ogółem to są 2 metody budowania kopca(pewnie scam, ale przedstawiamy 2)
 #### *po kolei dodawanie następnych elementów do kopca*
 całkiem intuicyjna metoda, jednak równie wolna co intuicyjna, ponieważ zakładając że mamy n elementów, oraz że typowo na wstawienie może być potrzebne wysokość kopca, wychodzi nam O(n log n)
 całkiem chujowo
-#### *budowanie kopca od dołu i scalanie go*
+#### *budowanie kopca od dołu i scalanie go* -optymalny
 pierw zapełniamy naszą tablicę po kolei elementami kopca nie dbając o jakikolwiek porządek, a następnie zaczynamy rekurencyjne budowanie kopca od dołu, czytaj pierw wszystkie liście traktujemy jako pojedyncze kopce, a następnie zaczynamy je rekurencyjnie łączyć pierw w kopce 3 elementowe - potem 7 itd aż nie osiągniemy całego kopca
 jest to całkiem fajne ponieważ zakładając że mamy 2 poprawne kopce, dodanie 1 elementu w wierzchołku i scalenie ich kosztuje nas O(wysokość kopca) co sumarycznie będzie się składało do O(n) - więcej jest w lista 0 zadanie 9 - więc całkiem ładnie zbiliśmy czas
 

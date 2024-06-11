@@ -1,4 +1,4 @@
-Który z dwóch poniższych ciągów kontrolnych dla metody kwadratowej usuwania kolizji w kaszowaniu metodą adresowania otwartego, jest Twoim zdaniem lepszy? Odpowiedź koniecznie uzasadnij.
+Który z dwóch poniższych ciągów kontrolnych dla metody kwadratowej usuwania kolizji w kashowaniu metodą adresowania otwartego, jest Twoim zdaniem lepszy? Odpowiedź koniecznie uzasadnij.
 - $h(k,i) = (h'(k)+37i+47i^2)$%$1000$
 - $h(k,i) = (h'(k)+375i+475i^2)$%$1000$
 

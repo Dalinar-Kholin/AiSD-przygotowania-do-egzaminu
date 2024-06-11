@@ -1,0 +1,1 @@
+Napisz procedury realizujące operacje słownikowe na drzewie splay wykonujące co najwyżej stałą liczbę operacji splay i stałą liczbę operacji niskiego rzędu.

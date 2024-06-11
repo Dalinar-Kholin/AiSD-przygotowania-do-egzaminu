@@ -16,3 +16,7 @@ h = 6
 MIN<sub>h</sub> = 6
 
 czyli wysokość drzewa jest pomiędzy {6,...,7} 
+
+
+
+#max-min-AVL

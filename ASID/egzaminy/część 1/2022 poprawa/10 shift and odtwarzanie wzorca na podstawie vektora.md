@@ -1,0 +1,3 @@
+W algorytmie shift-and wyliczany jest wektor charakterystyczny zbioru prefiksów. Załóżmy, że po przeczytaniu fragmentu tekstu zakończonego sufiksem "ababababab" wektor ten ma wartość 1010101. Czy na tej podstawie można określić wyszukiwany wzorzec wiedząć, żę jest on nad alfabetem {a,b}? Jeśli tak, podaj go. Jeśli nie, uzusadnij dlaczego
+
+> na tej podstawie da się ponownie wyznaczyć wzorzec, wiemy że długość wzorca to |V| -1 ==> wzorzec ma długość 6, oraz wiemy że co 2 litera może być początkiem wzorca, oraz że tekst ten zawiera ten wzorzec dla a - zaczynającego wzorzec => wzorzec to ababab
