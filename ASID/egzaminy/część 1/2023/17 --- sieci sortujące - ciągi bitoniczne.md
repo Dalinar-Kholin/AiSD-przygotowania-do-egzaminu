@@ -1,0 +1,1 @@
+Przedstaw konstrukcję sieci komparatorów, scalającej dwa ciągi długości n. W konstrukcji jako "black boxów" możesz użyć sieci sortujących ciągi bitoniczne.

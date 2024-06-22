@@ -1,0 +1,1 @@
+Rozważmy liniowe drzewo decyzyjne wzbogacone o możliwość zadawania pytań o wartości kombinacji, w których zmienne mogą występować w drugiej potędze. Czy przedstawiony na wykładzie dowód dolnej granicy na problem Element Uniqueness jest poprawny dla takiego modelu?

@@ -1,0 +1,3 @@
+Chcesz obliczyć długości najkrótszych dróg w grafie nieskierowanym od zadanego wierzchołka (źródła) do wszystkich pozostałych wierzchołków. Załóżmy, że w tym grafie długości wszystkich krawędzi sa takie same (no i oczywiście, nieujemne). Którego z poniższych algorytmów użyjesz: Dijkstry, BFS czy DFS, jeśli bedzie Tobą powodować chęć otrzymania poprawnych wyników w najkrótszym czasie?
+
+skoro wszystkie ścieżki są sobie równe, to najmniejsza ścieżka, to również najkrótsza ścieżka w grafie do tego wierzchołka, do obliczenia odległości dla całego grafu idealnie nada się BFS

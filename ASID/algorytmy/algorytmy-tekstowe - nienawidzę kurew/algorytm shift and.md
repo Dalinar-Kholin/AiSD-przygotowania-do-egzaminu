@@ -1,4 +1,8 @@
-ideaa:
+nie najgorzej wytłumaczone pod 
+
+https://alvaro-videla.com/2014/01/shift-and-visualization.html
+
+idea:
 - w trakcie czytania tekstu pamiętamy wszystkie prefixy wzorca które są suffixami textu
 
 > działa dobrze dla krótkich wzorców które mieszczą się w słowie maszynowym - (64 bity) a więc max długość słowa to 64 Bajty
