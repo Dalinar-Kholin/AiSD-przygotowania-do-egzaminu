@@ -11,5 +11,7 @@ b) Co jeśli do H trafiły dokładnie dwa różne elementy?
 Algorytm:
 ![[Pasted image 20240612182055.png]]
 
-
 rozwiązanie
+> z tego co wiem to po prostu, przeprowadzimy losowanie jeszcze raz i fajrant
+
+> jeżeli warunki poprawności algorytmu nie zostaną złamane, to nic się nie stanie, algorytm pozwala na istnienie wielu takich samych elementów w zbiorze
